@@ -5,7 +5,10 @@
       - [dva常用es6](https://github.com/bai3/blog/issues/2)
     - Redux
       - [redux基本介绍](https://github.com/bai3/blog/issues/3)
-  - Vue
+      - [redux基础——Action](https://github.com/bai3/blog/issues/4)
+      - [redux基础——Reducer](https://github.com/bai3/blog/issues/5)
+      - [redux基础——Store](https://github.com/bai3/blog/issues/6)      
+  - Vue
 - JavaScript
 - html
 - css
