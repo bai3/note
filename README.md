@@ -3,6 +3,7 @@
     - dva
       - [dva基本概念](https://github.com/bai3/blog/issues/1)
       - [dva常用es6](https://github.com/bai3/blog/issues/2)
+      - [React Component](https://github.com/bai3/blog/issues/7)
     - Redux
       - [redux基本介绍](https://github.com/bai3/blog/issues/3)
       - [redux基础——Action](https://github.com/bai3/blog/issues/4)
