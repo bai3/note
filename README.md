@@ -8,7 +8,7 @@
       - [redux基础——Action](https://github.com/bai3/blog/issues/4)
       - [redux基础——Reducer](https://github.com/bai3/blog/issues/5)
       - [redux基础——Store](https://github.com/bai3/blog/issues/6)      
-  - Vue
+   - Vue
 - JavaScript
 - html
 - css
