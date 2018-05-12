@@ -1,10 +1,10 @@
 - 前端框架
   - React
     - dva
-      - [dva基本概念](https://github.com/bai3/blog/projects/1#card-9676965)
-      - [dva常用es6](https://github.com/bai3/blog/projects/1#card-9681159)
+      - [dva基本概念](https://github.com/bai3/blog/issues/1)
+      - [dva常用es6](https://github.com/bai3/blog/issues/2)
     - Redux
-      - [redux基本介绍](https://github.com/bai3/blog/projects/1#card-9681159)
+      - [redux基本介绍](https://github.com/bai3/blog/issues/3)
   - Vue
 - JavaScript
 - html
