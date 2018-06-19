@@ -35,4 +35,4 @@ rules: [
 ]
 ```
 
-![](..\images\#27.png)
+![](https://github.com/bai3/note/blob/master/images/#27.png)
