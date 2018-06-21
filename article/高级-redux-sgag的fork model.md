@@ -1,6 +1,6 @@
 ## redux-saga 的 fork model
 
-在redux-saga的世界里，你可以使用2稲Effects在后台动态地fork task
+在redux-saga的世界里，你可以使用2个Effects在后台动态地fork task
 
 - fork 用来创建attached forks
 - spawn 用来创建detached forks
