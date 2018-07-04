@@ -6,7 +6,7 @@
 
 第一去阿里妈妈图标库创建自己的项目
 
-![#37-1](https://github.com/bai3/note/blob/master/images/#37-1.png)
+![#37-1](https://github.com/bai3/note/blob/master/images/%2337-1.png?raw=true)
 
 因为Ant的icon的class前缀是anticon，我们最好也社会中成anticon。Font Family随意。
 
@@ -14,7 +14,7 @@
 
 ###2.Ant Design项目
 
-![#37-1](https://github.com/bai3/note/blob/master/images/#37-2.png)
+![#37-2](https://github.com/bai3/note/blob/master/images/%2337-2.png?raw=true)
 
 只需要这些文件，其他是demo介绍。引入项目中的资源文件夹。
 
