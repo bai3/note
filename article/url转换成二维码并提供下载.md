@@ -10,7 +10,7 @@ html部分代码
 
 ```html
 <div id="invite-qrcode"></div>
-<img id="qrcode-logo" src="../qrcode-logo.png" style="display:none">//这个用于生成二维码中心的图片
+<img id="qrcode-logo" src="../qrcode-logo.png" style="display:none" crossOrigin='Anonymous'>//这个用于生成二维码中心的图片
 ```
 
 js代码
