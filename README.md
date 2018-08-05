@@ -41,12 +41,12 @@
 
 - JavaScript
 
-- - [hanlebars使用介绍](https://github.com/bai3/blog/issues/14)
+  - [hanlebars使用介绍](https://github.com/bai3/blog/issues/14)
   - [url转换二维码并下载](https://github.com/bai3/blog/issues/40)
 
 - css
 
-- - [Flexbo布局基础](https://github.com/bai3/blog/issues/12)
+  - [Flexbo布局基础](https://github.com/bai3/blog/issues/12)
   - [word-wrap、white-space和word break](https://github.com/bai3/blog/issues/43)
 
 - node
@@ -56,11 +56,11 @@
 - 其他
 
   - 网络
-  - - [HTTP、HTTP2和HTTPS的区别](https://github.com/bai3/blog/issues/44)
+    - [HTTP、HTTP2和HTTPS的区别](https://github.com/bai3/blog/issues/44)
 
   - Antd
 
-- - - [Antd介绍与使用](https://github.com/bai3/blog/issues/13)
+    - [Antd介绍与使用](https://github.com/bai3/blog/issues/13)
     - [Antd快速上手](https://github.com/bai3/blog/issues/15)
     - [社区常见轮子](https://github.com/bai3/blog/issues/16)
     - [Antd Form 自定义二次密码验证](https://github.com/bai3/blog/issues/27)
