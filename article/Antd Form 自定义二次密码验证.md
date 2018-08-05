@@ -1,4 +1,4 @@
-# Ant Form 自定义二次密码验证
+# Antd Form 自定义二次密码验证
 
 > Ant pro 输入框 rules的  validator使用
 
